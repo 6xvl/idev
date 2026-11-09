@@ -3,7 +3,8 @@ name = "idev"
 version = "0.2.0"
 edition = "2021"
 description = "A small iPhone toolbox for Windows: device info, battery health and history, storage hogs, crash insights, live log, network capture, security check, home screen tools."
-license = "MIT"
+license-file = "LICENSE"
+publish = false
 repository = "https://github.com/6xvl/idev"
 
 [dependencies]

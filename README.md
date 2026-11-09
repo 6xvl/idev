@@ -30,11 +30,7 @@ Wi-Fi sync is on and no cable is plugged in.
 
 ## Run
 
-Download `idev.exe` from [Releases](https://github.com/6xvl/idev/releases) and run it, or build it:
-
-```
-cargo build --release
-```
+Download `idev.exe` from [Releases](https://github.com/6xvl/idev/releases) and run it.
 
 Options: `--page <name>` opens on a page (`battery`, `storage`, `crashes`, …), `--dump` prints every value as text.
 
@@ -53,4 +49,5 @@ Find My status, MDM profiles and parts history are not readable over this connec
 
 ## License
 
-MIT
+All rights reserved. You can read the code and run the official release for personal use. Copying, modifying,
+re-uploading or distributing it is not allowed without written permission. See [LICENSE](LICENSE).
