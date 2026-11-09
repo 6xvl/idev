@@ -1,0 +1,5 @@
+/target
+/dist
+# Screenshots taken by shot.ps1 show real device identifiers (IMEI, serial, UDID).
+*.png
+*.pcap
